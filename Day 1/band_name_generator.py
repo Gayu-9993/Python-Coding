@@ -8,6 +8,8 @@
 
 #5. Make sure the input cursor shows on a new line, see the example at:
 
+#all the best
+
 print("Welcome to Band Name Generator!")
 
 city = input("Name of the city where you grown up:\n")
